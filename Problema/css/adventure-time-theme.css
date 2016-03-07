@@ -131,6 +131,10 @@
 .details{
 	width: calc(100% - 50px);
 }
+.details p{
+	font-style: italic;
+	color:#8F8F8F;
+}
 .thumb{
 	width: 40px;
 	text-align: right;
